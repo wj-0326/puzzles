@@ -22,3 +22,5 @@
 4 #mai-shilanui: https://jigex.com/WvsgF
 
 5 #a.k.i.: https://jigex.com/7rQyc
+
+6 #stripperpole: https://jigex.com/zuCq1
