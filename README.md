@@ -14,3 +14,5 @@
 #实时更新puzzle链接：
 
 1 #sage_leaking: https://jigex.com/NEpEp
+
+2 #sarephineKDA: https://jigex.com/C6ckX
