@@ -26,3 +26,5 @@
 6 #stripperpole: https://jigex.com/zuCq1
 
 7 #https://jigex.com/iEf4u
+
+8 #https://jigex.com/sJwT3
